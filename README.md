@@ -1,2 +1,2 @@
 # svelte-todo-list
- A svelte todo list.
+ A svelte TODO list.
